@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="http://www.linkedin.com/in/pramudi-nawanjana-067928375">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/pramudinawanjana1978-coder">
